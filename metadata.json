@@ -1,0 +1,6 @@
+{
+  "name": "Full Stack Weather Application",
+  "description": "A feature-rich full stack weather app with dark/light themes, favorite cities, search history, interactive graphs, and Gemini AI-powered weather insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
